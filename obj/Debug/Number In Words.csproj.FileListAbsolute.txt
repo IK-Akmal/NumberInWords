@@ -1,0 +1,10 @@
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\bin\Debug\Number In Words.exe.config
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\bin\Debug\Number In Words.exe
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\bin\Debug\Number In Words.pdb
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\obj\Debug\Number In Words.csprojAssemblyReference.cache
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\obj\Debug\Number_In_Words.Form1.resources
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\obj\Debug\Number_In_Words.Properties.Resources.resources
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\obj\Debug\Number In Words.csproj.GenerateResource.cache
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\obj\Debug\Number In Words.csproj.CoreCompileInputs.cache
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\obj\Debug\Number In Words.exe
+C:\Users\E.N.D\source\repos\Number In Words\Number In Words\obj\Debug\Number In Words.pdb
